@@ -1,0 +1,15 @@
+body{
+    background-color: #956996;
+}
+h1{
+    text-align: center;
+    font-style: normal;
+    
+}
+#paragraph p{
+    text-align: center;    
+    line-height: normal;
+    margin: 0 auto;
+    padding: 10px ;
+    width: 40%
+}
